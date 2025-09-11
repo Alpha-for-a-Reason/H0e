@@ -1,3 +1,24 @@
+# 🎶 Welcome to My Awesome Repo
+
+This repository contains an interesting audio file you can listen to.
+
+---
+
+## 🎧 Listen to the Song
+
+Click the link below to play the audio directly in your browser:
+
+👉 [🎵 Play MISHIR JI Song](https://raw.githubusercontent.com/Alpha-for-a-Reason/yup/main/audio/MISHIR%20JI%20-%20Rakesh%20Mishra,%20Queen%20Shalini,%20Indu%20Sonali%20(MP3_320K).mp3)
+
+---
+
+> 🎵 Feel free to star ⭐ this repo if you like the content!
+
+
+
+
+
+
 # 🎵 Welcome to My Repo
 
 ## 🎧 Listen to the Song
