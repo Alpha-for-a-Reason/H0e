@@ -1,32 +1,18 @@
 # 🎶 Welcome to My Awesome Repo
 
-This repository contains an interesting audio file you can listen to.
+This repository contains a funny remix audio file you can listen to.
 
 ---
 
 ## 🎧 Listen to the Song
 
-Click the link below to play the audio directly in your browser:
+Click the link below to view the file in GitHub and play it in your browser:
 
-👉 [🎵 Play MISHIR JI Song](https://github.com/Alpha-for-a-Reason/yup/blob/main/audio/MISHIR%20JI%20-%20Rakesh%20Mishra,%20Queen%20Shalini,%20Indu%20Sonali%20(MP3_320K).mp3)
+👉 [🎵 Play Funny Remix Song](https://github.com/Alpha-for-a-Reason/yup/blob/main/audio/Ankhiya%20Mei%20Laad%20Pele%20Ho%20Kiya🤣%20_%20New%20Funny%20Remix%20Song%20_%20Music%20Zone(MP3_160K).mp3)
 
 ---
 
 > 🎵 Feel free to star ⭐ this repo if you like the content!
-
-
-
-
-
-
-# 🎵 Welcome to My Repo
-
-## 🎧 Listen to the Song
-
-<audio controls>
-  <source src="https://raw.githubusercontent.com/Alpha-for-a-Reason/yup/main/audio/MISHIR%20JI%20-%20Rakesh%20Mishra,%20Queen%20Shalini,%20Indu%20Sonali%20(MP3_320K).mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
 
 
 
