@@ -22,3 +22,11 @@ While not a true "panel" in the sense of a collapsible element, tables can be us
 | Panel Title |
 |-------------|
 | This is the content of your panel. You can add text, images, or even code snippets here. |
+```
+
+## 🎧 Listen to the Song
+
+<audio controls>
+  <source src="https://github.com/Alpha-for-a-Reason/yup/blob/757d4132e7a5ba5a34d093e98de4e6c0ded089b1/Ankhiya%20Mei%20Laad%20Pele%20Ho%20Kiya%F0%9F%A4%A3%20_%20New%20Funny%20Remix%20Song%20_%20Music%20Zone(MP3_160K).mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
