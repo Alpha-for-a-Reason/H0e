@@ -1,23 +1,3 @@
-# 🎶 Welcome to My Awesome Repo
-
-This repository contains a funny remix audio file you can listen to.
-
----
-
-## 🎧 Listen to the Song
-
-Click the link below to view the file in GitHub and play it in your browser:
-
-👉 [🎵 Play Funny Remix Song](https://github.com/Alpha-for-a-Reason/yup/blob/main/audio/Ankhiya%20Mei%20Laad%20Pele%20Ho%20Kiya🤣%20_%20New%20Funny%20Remix%20Song%20_%20Music%20Zone(MP3_160K).mp3)
-
----
-
-> 🎵 Feel free to star ⭐ this repo if you like the content!
-
-
-
-
-
 <details>
   <summary>Checkmate 😏</summary>
   
