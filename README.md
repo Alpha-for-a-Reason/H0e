@@ -1,15 +1,15 @@
 <details>
   <summary>Checkmate 😏</summary>
   
-  ### Inside the Panel
+  ### Explanation:
   This is the content that will be hidden until the panel is expanded.
   You can include text, code blocks, images, and other Markdown elements here.
   
   ```python
-  print("Hello, Panel!")
+  Directory Access
   ```
 
-**Explanation:**
+**Inside the Panel**
 - `<details>`: This tag encloses the entire collapsible section.
 - `<summary>`: This tag defines the visible heading or title of the collapsible section. When clicked, it expands or collapses the content within the `<details>` block.
 - **Important:** Ensure there is a new line after the `</summary>` tag for proper rendering of Markdown within the collapsed section.
