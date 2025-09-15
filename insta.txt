@@ -1,0 +1,120 @@
+Informations about     : sushmita_pradhann
+userID                 : 6760574016
+Full Name              : 🐥 Chhavi 🎀
+Verified               : False | Is buisness Account : False
+Is private Account     : False
+Follower               : 1261 | Following : 513
+Number of posts        : 290
+External url           : https://www.youtube.com/@sushmita_pradhann
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Informations about     : __recipes.com__
+userID                 : 57635526474
+Full Name              : Khhyati Kumari ✨
+Verified               : False | Is buisness Account : False
+Is private Account     : True
+Follower               : 34 | Following : 51
+Number of posts        : 6
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Informations about     : athar__mohsin
+userID                 : 4958273585
+Full Name              : 
+Verified               : False | Is buisness Account : False
+Is private Account     : False
+Follower               : 378 | Following : 221
+Number of posts        : 113
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Informations about     : _glittering_._eyes_
+userID                 : 66353799471
+Full Name              : νєяσηι¢α
+Verified               : False | Is buisness Account : True
+Is private Account     : False
+Follower               : 7334 | Following : 16
+Number of posts        : 47
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Informations about     : sushmi.writes
+userID                 : 9041781841
+Full Name              : 
+Verified               : False | Is buisness Account : False
+Is private Account     : False
+Follower               : 141 | Following : 0
+Number of posts        : 78
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Informations about     : she__expresses
+userID                 : 65732567267
+Full Name              : 
+Verified               : False | Is buisness Account : False
+Is private Account     : False
+Follower               : 3972 | Following : 7348
+Number of posts        : 27
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Informations about     : path_nizam
+userID                 : 8219641907
+Full Name              : Md Nizam
+Verified               : False | Is buisness Account : False
+Is private Account     : False
+Follower               : 813 | Following : 869
+Number of posts        : 70
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Informations about     : ragini.pandey08
+userID                 : 14793538885
+Full Name              : RAGINI
+Verified               : False | Is buisness Account : False
+Is private Account     : False
+Follower               : 5104 | Following : 308
+Number of posts        : 946
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Informations about     : sanjaypandeyofficial
+userID                 : 2942071264
+Full Name              : Sanjay Pandey
+Verified               : True | Is buisness Account : True
+Is private Account     : False
+Follower               : 1307496 | Following : 519
+Number of posts        : 6605
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Informations about     : jyotijannela
+userID                 : 4056161260
+Full Name              : Jyoti Jannela
+Verified               : False | Is buisness Account : False
+Is private Account     : True
+Follower               : 111 | Following : 209
+Number of posts        : 32
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Informations about     : pradhan_official
+userID                 : 3477970014
+Full Name              : Nitesh( ਨਤੇਸ਼ ਪ੍ਰਧਨ)
+Verified               : False | Is buisness Account : False
+Is private Account     : True
+Follower               : 401 | Following : 571
+Number of posts        : 82
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Informations about     : malti.pradhan.562
+userID                 : 8161394484
+Full Name              : Malti Pradhan
+Verified               : False | Is buisness Account : False
+Is private Account     : False
+Follower               : 147 | Following : 38
+Number of posts        : 2
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Informations about     : bishwajit_pradhan_19
+userID                 : 48744513295
+Full Name              : ᏰᎥᏕᏂᏇᏗᏠᎥᏖ ᎮᏒᏗᎴᏂᏗᏁ
+Verified               : False | Is buisness Account : False
+Is private Account     : False
+Follower               : 676 | Following : 418
+Number of posts        : 28
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Informations about     : pradhan3282
+userID                 : 6962732626
+Full Name              : Sanjay Pradhan
+Verified               : False | Is buisness Account : False
+Is private Account     : True
+Follower               : 704 | Following : 1707
+Number of posts        : 277
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Informations about     : pradhan_nitesh_cr7
+userID                 : 6228684893
+Full Name              : Nitesh Pradhan
+Verified               : False | Is buisness Account : False
+Is private Account     : True
+Follower               : 2754 | Following : 570
+Number of posts        : 21
